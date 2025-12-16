@@ -1,4 +1,2 @@
 # This is my Local Repo
-
-<p></p>
-<p>This is feature branch.</p>
+<p>This from feature branch</p>
